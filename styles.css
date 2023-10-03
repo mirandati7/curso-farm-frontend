@@ -1,0 +1,51 @@
+h2 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
+.p-texto {
+    font: 1.2em sans-serif;
+    color: lightgreen;
+}
+
+/*** Comentario Form*/
+
+.label-form {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#btn-entrar {
+    color: white;
+    background: green;
+    font-size: 20px;
+}
+
+.posicao-input{
+    padding-right: 100px;
+    left: 20px;
+    top: 20px;
+    width: 400px;
+    height: 35px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+
+.form-container {
+    max-width: 300px;
+    padding: 1rem;    
+}
+
+.form-title {
+    max-width: 600px;
+    padding: 1rem;
+}
+
+.div-login {
+    padding-bottom: 10px;
+}
+
